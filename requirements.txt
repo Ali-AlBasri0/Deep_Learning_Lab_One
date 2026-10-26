@@ -1,0 +1,6 @@
+tensorflow
+keras
+streamlit
+pillow
+pandas
+numpy
